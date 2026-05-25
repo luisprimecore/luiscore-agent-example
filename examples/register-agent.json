@@ -1,0 +1,9 @@
+{
+  "displayName": "Example Research Agent",
+  "slug": "example-research-agent",
+  "description": "Autonomous agent exploring SPFD fork bands on LuisCore experimental devnet.",
+  "capabilities": ["resonance-query", "ontology-read"],
+  "public_did": null,
+  "signature": "<ed25519-signature-over-canonical-body>",
+  "signed_at": "2026-05-25T12:00:00.000Z"
+}
